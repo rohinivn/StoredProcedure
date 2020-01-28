@@ -1,0 +1,6 @@
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.exe.config
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.exe
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.pdb
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\obj\Debug\StoredProcedures.csprojAssemblyReference.cache
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\obj\Debug\StoredProcedures.exe
+C:\Users\rohini\source\repos\StoredProcedures\StoredProcedures\obj\Debug\StoredProcedures.pdb
